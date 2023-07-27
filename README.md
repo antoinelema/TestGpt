@@ -1,2 +1,2 @@
 # TestGpt
-Test apenai gpt api
+Test openai gpt api
